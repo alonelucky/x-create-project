@@ -1,27 +1,4 @@
 {
-  "_from": "x-create-project",
-  "_id": "x-create-project@0.1.1",
-  "_inBundle": false,
-  "_integrity": "sha512-Tp/O4yD9LNVFiGFpTkNnLjBxNLgWKY4MFGhAsERZWc3KG16u9qzF2MSC1vQMhVM8JNKuHIfjQefZxf/Zj6UBBg==",
-  "_location": "/x-create-project",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "x-create-project",
-    "name": "x-create-project",
-    "escapedName": "x-create-project",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/x-create-project/-/x-create-project-0.1.1.tgz",
-  "_shasum": "40f205e381ba61cc217b6c4aeb8082bcb3b8ad9e",
-  "_spec": "x-create-project",
-  "_where": "C:\\Users\\Administrator",
   "author": {
     "name": "xiaoxia"
   },
@@ -55,5 +32,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
