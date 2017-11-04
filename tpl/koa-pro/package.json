@@ -1,0 +1,24 @@
+{
+  "name": "koa-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "koa": "^2.3.0",
+    "koa-art-template": "^1.1.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.2.1",
+    "koa-session2": "^2.2.5",
+    "koa-static": "^4.0.1",
+    "mysql2": "^1.4.2",
+    "nodemailer": "^4.3.1",
+    "redis": "^2.8.0",
+    "sequelize": "^4.22.2"
+  }
+}
